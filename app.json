@@ -1,9 +1,9 @@
 {
-    "name": "Sheeba Music",
-    "logo": "https://telegra.ph/file/3cef9662e86bd313ec045.jpg",
+    "name": "MANAGER Music",
+    "logo": "https://telegra.ph/file/7495e689ab5d95e215afd.jpg",
     "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat..",
     "keywords": ["music", "voicechat", "telegram"],
-    "repository": "https://github.com/developer-boy-sdowner/SheebaMusic",
+    "repository": "https://github.com/PsychoBots/VCMusical",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -34,7 +34,7 @@
         "DURATION_LIMIT": {
             "description": "In minutes!",
             "required": true,
-            "value": "150"
+            "value": "25"
         }
     },
     "buildpacks": [
