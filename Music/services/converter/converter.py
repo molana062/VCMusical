@@ -1,7 +1,7 @@
 import asyncio
 from os import path
 
-from SheebaMusic.helpers.errors import FFmpegReturnCodeError
+from Music.helpers.errors import FFmpegReturnCodeError
 
 
 async def convert(file_path: str) -> str:
