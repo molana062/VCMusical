@@ -6,8 +6,8 @@ from os import path
 
 from youtube_dl import YoutubeDL
 
-from SheebaMusic.config import DURATION_LIMIT
-from SheebaMusic.helpers.errors import DurationLimitError
+from Music.config import DURATION_LIMIT
+from Music.helpers.errors import DurationLimitError
 
 ydl_opts = {
     "format": "bestaudio[ext=m4a]",
