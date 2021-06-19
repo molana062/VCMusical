@@ -1,4 +1,4 @@
-from SheebaMusic.services.callsmusic.queues.queues import (
+from Music.services.callsmusic.queues.queues import (
     clear,
     get,
     is_empty,
