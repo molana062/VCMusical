@@ -3,8 +3,8 @@ from typing import Callable
 from pyrogram import Client
 from pyrogram.types import Message
 
-from SheebaMusic.config import SUDO_USERS
-from SheebaMusic.helpers.admins import get_administrators
+from Music.config import SUDO_USERS
+from Music.helpers.admins import get_administrators
 
 
 def errors(func: Callable) -> Callable:
