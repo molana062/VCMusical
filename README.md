@@ -37,7 +37,7 @@
 ## This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 <details>
 
-  <summary>Steps to deploy on Heroku !! </summary>
+#  <summary>Steps to deploy on Heroku !! </summary>
 
 ```
 
