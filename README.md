@@ -17,6 +17,7 @@
   5. SUDO USER(YOUR MAIN ACCOUNT ID)
   6. MOST IMPORTANT A SPARE ACCOUNT 
   7. USE DURATION_LIMIT AS IT IS FOR SMOOTH PERFORMANCE 
+  
     ♪IF YOU DON'T KNOW HOW TO GET YOUR ID go to LINK BELOW AND DO /id♪
   
   •NOTE:- USE API_ID, API_HASH, STRING_SESSION OF 
@@ -31,7 +32,7 @@
   
   </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/Telegram-YOUR_ID-brown?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
-# This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
+## This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 <details>
 
   <summary>Steps to deploy on Heroku !! </summary>
