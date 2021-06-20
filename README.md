@@ -29,7 +29,7 @@
   
   </p><p align="centre"><a href="https://t.me/BotFather"> <img src="https://img.shields.io/badge/Telegram-BOT_TOKEN-red?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
-  </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/Telegram-YOUR_ID-pink?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
+  </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/Telegram-YOUR_ID-skyblue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
 # This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 <details>
