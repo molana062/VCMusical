@@ -6,7 +6,18 @@
   
 </p><p align="centre"><a href="https://t.me/PsychoBots_chat"> <img src="https://img.shields.io/badge/telegram-SUPPORT_CHAT-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
-
+# REQUIREMENTS 
+  
+  ```
+  You need 
+  1. API_ID 
+  2. API_HASH
+  3. SESSIONSTRING (PYROGRAM)
+  4. BOT_TOKEN
+  5. MOST IMPORTANT A SPARE ACCOUNT 
+  6. NOTE:- USE API_ID, API_HASH, STRING_SESSION OF YOUR SPARE ACCOUNT AND USE SUDO USER OF YOUR MAIN ACCOUNT
+  ```
+  
 # This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 <details>
 
