@@ -35,7 +35,7 @@
   </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/Telegram-YOUR_ID-brown?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
 ## This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
-<details>
+# <DEPLOY>
 
 #  <summary>Steps to deploy on Heroku !! </summary>
 
