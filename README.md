@@ -62,7 +62,7 @@ you will get any problem CONTACT to SUPPORT
   #### PERFECT BOT IF YOU WANT SEPRATE MUSIC BOT
   
   # ~VCMusical by [PsychoBots](https://t.me/Psycho_Bots) ~
-  </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/telegram-BOT_FOR_USE-grey?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
+   
   
-  # IF YOU DON'T WANT TO DEPLOY USE THIS BOT☝️
-  # BOT AT TELEGRAM ~ 
+  # IF YOU DON'T WANT TO DEPLOY USE THIS BOT👇
+  # BOT AT TELEGRAM ~ </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/telegram-BOT_FOR_USE-pink?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
