@@ -56,15 +56,13 @@ you will get any problem CONTACT to SUPPORT
 
 ### If you don't have GROUP manager BoT ?
  ## USE THIS BOT . 
-  
-  <p align="left"><a href="https://t.me/musiqorobot"> <img src="https://img.shields.io/badge/Musiqo%20%BOT-red?style=for-the-badge&logo=telegram" width="240" height="38.45"/></a></p>
-  
+  </p><p align="centre"><a href="https://t.me/musiqorobot"> <img src="https://img.shields.io/badge/Musiqo-Music-red?style=for-the-badge&logo=github" alt="WITHOUT" /></a> 
   #### PERFECT BOT IF YOU WANT SEPRATE MUSIC BOT
   
-
+# oR
    
   
-  ##### IF YOU DON'T WANT TO DEPLOY USE THIS BOT
+  ##### USE THIS BOT
   ### BOT AT TELEGRAM ~ </p><p align="centre"><a href="https://t.me/lovishmanager_bot"> <img src="https://img.shields.io/badge/telegram-BOT_FOR_USE-pink?style=for-the-badge&logo=telegram" alt="BOT" /></a>  
   
   # ~VCMusical By [PsychoBots](https://t.me/Psycho_Bots) ~
