@@ -26,7 +26,9 @@
 ### GET REQUIREMENTS FROM HERE✨
  </p><p align="centre"><a href="https://t.me/pyrosessiongen_bot"> <img src="https://img.shields.io/badge/Pyrogram-STRING_SESSION-yellow?style=for-the-badge&logo=telegram" alt="STRINGSESSION" /></a>  
   
-  </p><p align="centre"><a href="my.telegram.org"> <img src="https://img.shields.io/badge/Telegram-API_HASH_API_ID-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
+  </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/telegram-APP_ID API_HASH-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+
+ 
   
   </p><p align="centre"><a href="https://t.me/BotFather"> <img src="https://img.shields.io/badge/Telegram-BOT_TOKEN-red?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
   
