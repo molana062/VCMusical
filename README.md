@@ -58,6 +58,7 @@ you will get any problem CONTACT to SUPPORT
  # DEPLOY THIS BOT . 
   
   <p align="left"><a href="https://github.com/LucidoXD/musiqo"> <img src="https://img.shields.io/badge/Musiqo%20%20Music-orange?style=for-the-badge&logo=heroku" width="240" height="38.45"/></a></p>
-  ##### PERFECT BOT IF YOU SEPRATE MUSIC BOT
+  
+  #### PERFECT BOT IF YOU WANT SEPRATE MUSIC BOT
   
   # ~VCMusical by [PsychoBots](https://t.me/Psycho_Bots) ~
