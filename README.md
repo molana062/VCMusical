@@ -1,5 +1,12 @@
 # VCMusical . ![🎼](https://telegra.ph/file/ee4875a6eac21f24be3e2.jpg)
 
+
+# SUPPORT 
+</p><p align="centre"><a href="https://t.me/Psycho_Bots"> <img src="https://img.shields.io/badge/telegram-SUPPORT_Channel-red?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
+  
+</p><p align="centre"><a href="https://t.me/PsychoBots_chat"> <img src="https://img.shields.io/badge/telegram-SUPPORT_CHAT-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a>  
+  
+
 # This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 <details>
 
