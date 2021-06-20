@@ -55,7 +55,7 @@ you will get any problem CONTACT to SUPPORT
 
 
 ### If you don't have GROUP manager BoT ?
- # DEPLOY THIS BOT . 
+ ## DEPLOY THIS BOT . 
   
   <p align="left"><a href="https://github.com/LucidoXD/musiqo"> <img src="https://img.shields.io/badge/Musiqo%20%20Music-orange?style=for-the-badge&logo=github" width="240" height="38.45"/></a></p>
   
