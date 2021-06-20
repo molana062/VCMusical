@@ -1,5 +1,7 @@
-# VCMusical .
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PsychoBots/VCMusical) 
+# VCMusical .[🎼](https://telegra.ph/file/ee4875a6eac21f24be3e2.jpg)
+
+# This BoT can be DEPLOY with your GROUP MANAGER ✨BoT 
 
 
-Presenting ALL NEW VC_BOT which You can merge WITH Your GROUP manager 👀bot easily
+### If you don't have GROUP manager BoT ?
+ # DEPLOY THIS BOT 
