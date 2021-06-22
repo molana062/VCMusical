@@ -31,6 +31,9 @@
             "description": "Full-access users, counted as admin everywhere, seperated by space.",
             "required": true
         },
+        "BOT_TOKEN": {
+            "description": "DP THAT YOU WANT IN YOUR BOT Telegraph link only",
+            "required": true
         "DURATION_LIMIT": {
             "description": "In minutes!",
             "required": true,
