@@ -31,7 +31,7 @@
             "description": "Full-access users, counted as admin everywhere, seperated by space.",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BG_IMAGE": {
             "description": "DP THAT YOU WANT IN YOUR BOT Telegraph link only",
             "required": true
         },
