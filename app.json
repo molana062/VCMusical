@@ -33,7 +33,8 @@
         },
         "BG_IMAGE": {
             "description": "DP THAT YOU WANT IN YOUR BOT Telegraph link only",
-            "required": true
+            "value": "https://telegra.ph/file/9e45f5dd813a5f6fc6b68.jpg",
+            "required": false
         },
         "DURATION_LIMIT": {
             "description": "In minutes!",
