@@ -16,3 +16,4 @@ python-arq
 future
 psutil
 wget
+sqlalchemy==1.3.23
